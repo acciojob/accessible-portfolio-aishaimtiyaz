@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.centerNav ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    
+}
+.centerNav ul li a{
+color:black;
+    text-decoration: none;
+}
